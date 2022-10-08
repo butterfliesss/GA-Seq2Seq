@@ -1,0 +1,14 @@
+**/__pycache__
+.vscode
+.history
+
+data/squad-split1/
+data/squad-split2/
+data/marco1/
+
+src/*.txt
+src/core/evaluation/meteor/data
+
+out/squad-split1/
+out/squad-split2/
+out/marco1/

@@ -1,0 +1,1 @@
+python -u test_main.py -config config/test_ga-seq2seq_squad_split1.yml > test_ga-seq2seq_squad_split1.txt 2>&1 &
